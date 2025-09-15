@@ -10,6 +10,8 @@
 An autonomous, multi-agent AI system (AutoGen, Groq) that conducts, proctors, and evaluates technical Excel interviews in real-time. Built with FastAPI and React.
 An end-to-end, full-stack application designed to automate the technical screening process for Excel-proficient roles. This platform leverages a sophisticated multi-agent system to conduct dynamic, real-time interviews, provide intelligent skill evaluation, and generate detailed performance reports to streamline the hiring pipeline.
 
+__Note:__ Open Excel Sheet button is enabled but there is no Excel sheet provided by me, therefore, it will show that "No Sheets are provided". Its not an error, anyone can provide the sheets link in the code for running the project.
+
 ## 🚀 Live Demo
 
 **Check out the live deployed application:** **[Live Demo Link](https://mock-interviewer-cn.netlify.app/)**
