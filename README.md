@@ -20,7 +20,51 @@ __Note:__ Open Excel Sheet button is enabled but there is no Excel sheet provide
 *   **Candidate Login:** `candidate1@abc.com` / `Candidate@123`
 
 ---
+## 🖼️ Project Showcase
 
+<table>
+  <tr>
+    <td align="center">
+      <em>Candidate Dashboard</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/dfb69fda-3be6-4146-a82d-a0dbf756ecaf" width="100%" alt="Login Page">
+    </td>
+    <td align="center">
+      <em>Interview Details</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/ff8a8d7f-8ecf-4ef8-8b7b-74deaa6e027e" width="100%" alt="Candidate Dashboard">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em>Live Interview Interface</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/30f8037d-a18c-4732-81b8-bdd7eb50dfd6" width="100%" alt="Admin Dashboard Application List">
+    </td>
+    <td align="center">
+      <em>Admin Dashboard (Application List)</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/89ca6d72-c7e3-4b99-9580-a82646a1e5a9" width="100%" alt="Live Interview Interface with Proctoring">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em>Candidate Application Details</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/c43040db-0f10-4dd7-a281-2485e5092838" width="100%" alt="Real-time Agent Simulation">
+    </td>
+    <td align="center">
+      <em>AI-Generated Report Modal</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/3c7abb34-489c-48cb-ac0b-fa9ba501c762" width="100%" alt="Interview Transcript Modal">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <em>Interview Transcript Modal</em><br/><br/>
+      <img width="1901" height="912" alt="React-App (4)" src="https://github.com/user-attachments/assets/cfb0dd4d-54ba-4e63-b804-8f5df34b0893" />
+    </td>
+    <td align="center">
+      <em>Agent Analytics and Agent Simulation (Real-time)</em><br/><br/>
+      <img src="https://github.com/user-attachments/assets/59889679-6783-46e7-82d6-42c6e9318f6c" width="100%" alt="AI Generated Report Modal">
+    </td>
+  </tr>
+</table>
+---
 ## ✨ Key Features
 
 *   **🤖 Multi-Agent Conversation:** Utilizes Microsoft's AutoGen framework to orchestrate a natural, multi-turn interview between specialized AI agents.
